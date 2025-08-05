@@ -1,2 +1,2 @@
 # game-collection
-Track progress in my game colledction
+Track progress in my game collection
